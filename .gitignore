@@ -1,0 +1,35 @@
+# Directorios de compilación
+/build/
+/out/
+
+/.gradle/
+*/.gradle/
+
+# Archivos generados por el IDE
+*.iml
+.idea/
+*.classpath
+*.project
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Archivos de salida de pruebas
+/test-results/
+/reports/
+
+# Configuraciones específicas de IntelliJ IDEA
+*.ipr
+*.iws
+
+# Dependencias descargadas
+/.mvn/
